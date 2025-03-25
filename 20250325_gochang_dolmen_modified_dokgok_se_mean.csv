@@ -7,7 +7,7 @@ GuAm_ga_5,163343.5045,320678.4986,15.5163,320,140,80,amorphous_rectangle,go_boar
 GuAm_ga_6,163347.2642,320677.8141,15.4147,280,190,55,amorphous_rectangle,go_board
 GuAm_ga_7,163350.5549,320678.4022,15.0762,250,240,40,amorphous_rhombus,capstone
 GuAm_ga_8,163353.5801,320680.1232,15.1316,230,210,45,amorphous_rhombus,capstone
-GuAm_ga_9,163356.8339,206780.1674,15.2941,180,140,95,rectangular_rhombus,capstone
+GuAm_ga_9,163356.8339,320678.1674,15.2941,180,140,95,rectangular_rhombus,capstone
 GuAm_ga_10,163360.2687,320678.6324,14.8995,160,150,50,amorphous_rhombus,go_board
 GuAm_ga_11,163359.563,320674.7372,15.256,375,190,60,amorphous_rectangle,go_board
 GuAm_ga_12,163364.1151,320672.1994,15.2133,230,130,55,amorphous_rectangle,capstone
@@ -27,7 +27,7 @@ GuAm_ga_25,163345.0516,320662.8288,15.4786,260,145,60,amorphous_rhombus,go_board
 GuAm_ga_26,163345.6123,320659.8293,15.1081,290,210,50,amorphous_rectangle,unidentified
 GuAm_na_1,163468.0235,320871.9079,9.7001,300,200,90,amorphous_triangle,go_board
 DaeDong_ga_1,166054.0909,317108.9112,21.1057,310,200,90,amorphous_rectangle,go_board
-DaeDong_ga_2,166102.1019,337129.8098,20.496,450,270,130,amorphous_half_ellipse,go_board
+DaeDong_ga_2,166102.1019,317129.8098,20.496,450,270,130,amorphous_half_ellipse,go_board
 DaeDong_ga_3,166111.2577,317134.4661,21.0078,600,340,180,amorphous_rhombus,go_board
 DaeDong_ga_4,166138.6692,317153.3891,22.2002,450,320,140,amorphous_rhombus,go_board
 DaeDong_ga_5,166233.5696,317180.7301,17.1537,350,240,120,amorphous_hexagon,go_board
