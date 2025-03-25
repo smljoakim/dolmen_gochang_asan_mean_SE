@@ -15,7 +15,7 @@ GuAm_ga_13,163366.262,320675.5513,15.0398,180,120,65,amorphous_rectangle,go_boar
 GuAm_ga_14,163370.0423,320675.8409,15.2408,215,165,85,amorphous_rectangle,unidentified
 GuAm_ga_15,163339.4489,320673.6888,15.8004,200,140,50,amorphous_rectangle,unidentified
 GuAm_ga_16,163341.6741,320670.767,15.5528,150,150,40,circle,unidentified
-GuAm_ga_17,163342.7091,320674.0871,15.4288,270,185,30,rectangular_long_ellipse,"unidentified	"
+GuAm_ga_17,163342.7091,320674.0871,15.4288,270,185,30,rectangular_long_ellipse,unidentified
 GuAm_ga_18,163346.654,320668.6716,15.6162,270,155,75,amorphous_rectangle,capstone
 GuAm_ga_19,163350.0622,320668.433,15.1486,330,250,40,amorphous_triangle,unidentified
 GuAm_ga_20,163353.3776,320666.9154,15.1195,295,205,60,amorphous_rectangle,unidentified
@@ -48,7 +48,7 @@ DaeDong_ma_7,165723.5514,316328.6338,36.7714,195,140,40,amorphous_rhombus,capsto
 DaeDong_ma_8,165719.9376,316330.4747,37.0885,210,130,30,amorphous_rectangle,capstone
 DaeDong_ma_9,165724.0626,316335.3289,37.6994,240,140,55,amorphous_rectangle,capstone
 DaeDong_ba_1,165873.6325,315838.3096,35.0528,230,140,40,amorphous_rectangle,unidentified
-DaeDong_ba_2,165869.0453,315775.2492,33.679,230,140,40,amorphous_rectangle,"go_board 	"
+DaeDong_ba_2,165869.0453,315775.2492,33.679,230,140,40,amorphous_rectangle,go_board
 DaeDong_ba_3,165864.0128,315762.2228,32.6105,250,100,70,amorphous_rectangle,unidentified
 DaeDong_ba_4,165705.7459,315919.4708,35.4999,240,220,105,amorphous_square,capstone
 BanAm_ga_1,164221.6413,321820.8619,12.3069,160,150,95,amorphous_rhombus,unidentified
@@ -124,7 +124,7 @@ SungSan_na_7,161770.4637,318012.1882,69.3907,390,300,100,amorphous_rhombus,go_bo
 SungSan_na_8,161762.9486,318009.9109,69.1549,230,120,110,amorphous_rectangle,go_board
 UnGok_1,168364.1971,319242.6156,45.077,320,310,90,amorphous_ellipse,capstone
 UnGok_2,168352.5356,319151.7131,37.4925,430,340,140,amorphous_rectangle,go_board
-UnGok_4,168625.9208,319285.954,43.2027,640,470,380,amorphous_square,"go_board	"
+UnGok_4,168625.9208,319285.954,43.2027,640,470,380,amorphous_square,go_board
 UnGok_5,168694.7494,319287.1972,41.6115,450,320,160,amorphous_rectangle,capstone
 UnGok_6,168713.0685,319283.4057,41.7387,330,290,180,amorphous_rhombus,go_board
 UnGok_7,168727.8093,319279.891,41.8241,300,70,90,amorphism,unidentified
@@ -154,7 +154,7 @@ UnGok_30,168789.3454,319333.1274,55.4885,320,250,50,amorphism,unidentified
 UnGok_31,168874.6722,319310.8548,50.1694,300,270,270,amorphous_triangle,go_board
 UnGok_32,168356.7303,319274.6286,52.0899,230,170,55,amorphous_ellipse,unidentified
 JungWol,167621.0945,314559.5036,49.6793,320,300,110,amorphous_square,"go_board	"
-HaGap_ga,166742.4561,317238.004,26.0888,290,240,120,amorphous_square,"capstone		"
+HaGap_ga,166742.4561,317238.004,26.0888,290,240,120,amorphous_square,capstone
 HaGap_na_1,167137.4486,316709.9297,54.8587,300,170,70,amorphous_rectangle,capstone
 HaGap_na_2,167132.7556,316703.61,54.726,190,110,80,amorphous_triangle,unidentified
 HaGap_na_3,167135.8987,316695.7869,55.5544,160,75,60,amorphous_rectangle,unidentified
